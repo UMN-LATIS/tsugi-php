@@ -22,8 +22,8 @@
     },
     "require": {
         "php": ">=5.5.0",
-        "silex/silex": "v2.0.4",
-        "symfony/translation": "v3.2.7"
+        "silex/silex": "v2.3.0",
+        "symfony/translation": "v4.0.9"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*",
